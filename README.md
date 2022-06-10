@@ -9,6 +9,6 @@
 <div> 
  
  
-  ![Snake animation](https://github.com/rafaballerini/raian26/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/raian26/raian26/blob/output/github-contribution-grid-snake.svg)
  
 </div>
