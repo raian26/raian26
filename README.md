@@ -5,7 +5,6 @@
 <img src="https://user-images.githubusercontent.com/86633608/173918277-a11b8fcc-aa1f-41e3-973c-e40b31540289.gif"
      height = "150" width = "150">
 
-<div align="center">
   <a href="https://github.com/raian26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raian26&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raian26&layout=compact&langs_count=7&theme=ocean_dark"/>
