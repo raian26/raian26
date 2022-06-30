@@ -1,4 +1,5 @@
 ### Olá, eu sou o Raian Arnold, pessoa desenvolvedora mobile! ✌️
+- 📱 Sou um profissional em transição de carreira!
 - 😊Tenho orgulho de ser uma pessoa desenvolvedora formada pela Generation Brasil, uma das principais organizações formadoras de desenvolvedores!
 - 😄 Pronouns: he/ele/dele
 
@@ -16,7 +17,13 @@
   <a href="https://instagram.com/earthcitizen26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:raian.guilherme@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raian-arnold-02570a133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+      <div style="display: inline_block"><br>
+            <img align="center" alt="mamba-kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+   <img align="center" alt="mamba-kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+   <img align="center" alt="mamba-kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  </div>  
+           
+           
    ![Snake animation](https://github.com/raian26/raian26/blob/output/github-contribution-grid-snake.svg)
  
 </div>
