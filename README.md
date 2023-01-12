@@ -1,4 +1,4 @@
-### Olá, eu sou o Raian Arnold, pessoa desenvolvedora mobile! ✌️
+### Olá, eu sou o Raian Arnold! ✌️
 - 📱 Sou um profissional em transição de carreira!
 - 😊Iniciei com o Desenvolvimento através da instituição Generation Brasil, como pessoa desenvolvedora mobile!
 - 😄 Pronouns: he/ele/dele
